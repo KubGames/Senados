@@ -65,11 +65,13 @@ public class MovimentoPlayer : MonoBehaviour
             horizontal = false;
             //Cima
             if(vDirection>0.1){
+                transform.localScale = new Vector2(1, 1);
                 cima = true;
                 rb.velocity = new Vector2(rb.velocity.x, Velocidade);
             }
             //Baixo
             else if(vDirection<-0.1){
+                transform.localScale = new Vector2(1, 1);
                 cima = false;
                 rb.velocity = new Vector2(rb.velocity.x, -Velocidade);
             }
@@ -83,24 +85,26 @@ public class MovimentoPlayer : MonoBehaviour
 
     void Animacoes(){
 
-        if(horizontal){
+        if(horizontal && anim.GetBool("Horizontal").Equals(false)){
             anim.SetBool("Horizontal", true);
             anim.SetBool("Cima", false);
             anim.SetBool("Baixo", false);
         }
-        else if(!horizontal && cima){
+        else if(!horizontal && cima && anim.GetBool("Cima").Equals(false)){
             anim.SetBool("Cima", true);
             anim.SetBool("Baixo", false);
             anim.SetBool("Horizontal", false);
         }
-        else if(!horizontal && !cima){
+        else if(!horizontal && !cima && anim.GetBool("Baixo").Equals(false)){
             anim.SetBool("Baixo", true);
             anim.SetBool("Horizontal", false);
             anim.SetBool("Cima", false);
         }
 
         if(!(rb.velocity.x == 0) || !(rb.velocity.y == 0)){
-            anim.SetBool("Andando", true);
+            if(anim.GetBool("Andando").Equals(false)){
+                anim.SetBool("Andando", true);
+            }
         }
         else{
             anim.SetBool("Andando", false);
