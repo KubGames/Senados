@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: "Cen\xE1rio"
+    uniqueID: 1070653265
+    locked: 0
+  - name: Entity
+    uniqueID: 1960529163
+    locked: 0
+  - name: Player
+    uniqueID: 3288368885
+    locked: 0
