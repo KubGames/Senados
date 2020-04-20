@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1.Pesadelo.unity
+    guid: f81fbc896f384e942a0f7269bd7d5d2e
   m_configObjects: {}
