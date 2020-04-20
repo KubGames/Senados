@@ -18,6 +18,10 @@ public class CameraController : MonoBehaviour
     // Update is called once per frame
     private void FixedUpdate()
     {
+        if(Input.GetKey(KeyCode.Space) ||Input.GetButton("Jump")||Input.GetButton("Submit")){
+            GameObject.Find("Main Camera/Zoom_morador_de_rua").SetActive(false);
+        }
+
         if(player.transform.position.x > -8.68 && player.transform.position.x < 8.61 ){
             transform.position = new Vector3(player.transform.position.x, transform.position.y, -8.47f);
         }

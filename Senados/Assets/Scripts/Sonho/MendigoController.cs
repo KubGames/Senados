@@ -42,7 +42,10 @@ public class MendigoController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if(Input.GetButton("Sumbit") || Input.GetButton("Jump") || Input.GetKey(KeyCode.Space)){
+            gameObject.SetActive(false);
+            animationOn=false;
+        }
         
         //Posição da câmera
         cameraTransform.position = new Vector3(cameraTransform.position.x, cameraTransform.position.y);
