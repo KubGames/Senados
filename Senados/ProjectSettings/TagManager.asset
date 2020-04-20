@@ -50,3 +50,9 @@ TagManager:
   - name: Player
     uniqueID: 3288368885
     locked: 0
+  - name: Zoom
+    uniqueID: 230522783
+    locked: 0
+  - name: Morador de rua
+    uniqueID: 2090576409
+    locked: 0
