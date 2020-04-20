@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: e016fd5b049d6e945b93ffa61aea709c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7416200303588787999
+    second: "Vota\xE7\xE3o (1)_0"
+  - first:
+      213: 6222834550780102453
+    second: "Vota\xE7\xE3o (1)_1"
+  - first:
+      213: 5072913718112721794
+    second: "Vota\xE7\xE3o (1)_2"
+  - first:
+      213: -4731342159649771674
+    second: "Vota\xE7\xE3o (1)_3"
+  - first:
+      213: -1849948268430188236
+    second: "Vota\xE7\xE3o (1)_4"
+  - first:
+      213: -2531752047772624331
+    second: "Vota\xE7\xE3o (1)_5"
+  - first:
+      213: 3020889217080523690
+    second: "Vota\xE7\xE3o (1)_6"
+  - first:
+      213: -1678462861755787886
+    second: "Vota\xE7\xE3o (1)_7"
+  - first:
+      213: 4410033402379809613
+    second: "Vota\xE7\xE3o (1)_8"
+  - first:
+      213: -5158787352923165663
+    second: "Vota\xE7\xE3o (1)_9"
+  - first:
+      213: -6759944542380308148
+    second: "Vota\xE7\xE3o (1)_10"
+  - first:
+      213: -1146218519883675596
+    second: "Vota\xE7\xE3o (1)_11"
+  - first:
+      213: -7417405667098859295
+    second: "Vota\xE7\xE3o (1)_12"
+  - first:
+      213: -2414599960518258764
+    second: "Vota\xE7\xE3o (1)_13"
+  - first:
+      213: -7552997643716638170
+    second: "Vota\xE7\xE3o (1)_14"
+  - first:
+      213: 7146058893194084584
+    second: "Vota\xE7\xE3o (1)_15"
+  - first:
+      213: -7493816844718863517
+    second: "Vota\xE7\xE3o (1)_16"
+  - first:
+      213: 1630741823500338782
+    second: "Vota\xE7\xE3o (1)_17"
+  - first:
+      213: -8126818396656938491
+    second: "Vota\xE7\xE3o (1)_18"
+  - first:
+      213: -8131041781133420613
+    second: "Vota\xE7\xE3o (1)_19"
+  - first:
+      213: -1453067422646381750
+    second: "Vota\xE7\xE3o (1)_20"
+  - first:
+      213: -7473998697067098848
+    second: "Vota\xE7\xE3o (1)_21"
+  - first:
+      213: 8693876994805047028
+    second: "Vota\xE7\xE3o (1)_22"
+  - first:
+      213: 676534491489896757
+    second: "Vota\xE7\xE3o (1)_23"
+  - first:
+      213: 4720993246578666923
+    second: "Vota\xE7\xE3o (1)_24"
+  - first:
+      213: -7858573416726229508
+    second: "Vota\xE7\xE3o (1)_25"
+  - first:
+      213: -5469265599073602682
+    second: "Vota\xE7\xE3o (1)_26"
+  - first:
+      213: 756730174679626936
+    second: "Vota\xE7\xE3o (1)_27"
+  - first:
+      213: -6876821174786070883
+    second: "Vota\xE7\xE3o (1)_28"
+  - first:
+      213: -4584450074625108874
+    second: "Vota\xE7\xE3o (1)_29"
+  - first:
+      213: -90223289277027049
+    second: "Vota\xE7\xE3o (1)_30"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17cd8622e2abe660800000000000000
+      internalID: 7416200303588787999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_1"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1260
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537864fcd03fb5650800000000000000
+      internalID: 6222834550780102453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_2"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1260
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b9050362c966640800000000000000
+      internalID: 5072913718112721794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_3"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1260
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fee3f9f55e65eb0800000000000000
+      internalID: -4731342159649771674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ae5fe9d9a356e0800000000000000
+      internalID: -1849948268430188236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_5"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1080
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a15252de86ddcd0800000000000000
+      internalID: -2531752047772624331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_6"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1080
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab74e1dcba5ce920800000000000000
+      internalID: 3020889217080523690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_7"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1080
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2955c5c8be6e4b8e0800000000000000
+      internalID: -1678462861755787886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43b47c9306933d30800000000000000
+      internalID: 4410033402379809613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_9"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 900
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cac352c3e4868b0800000000000000
+      internalID: -5158787352923165663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_10"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c412214adf22a0800000000000000
+      internalID: -6759944542380308148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_11"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 900
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380c5f3450d710f0800000000000000
+      internalID: -1146218519883675596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e86a9948d4101990800000000000000
+      internalID: -7417405667098859295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_13"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 720
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf03a6012e9d7ed0800000000000000
+      internalID: -2414599960518258764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_14"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 720
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a48e819ac5e2790800000000000000
+      internalID: -7552997643716638170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_15"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 720
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0cad0b3b6eb2360800000000000000
+      internalID: 7146058893194084584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b81be984d900890800000000000000
+      internalID: -7493816844718863517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_17"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 540
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564c166c0f81a610800000000000000
+      internalID: 1630741823500338782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_18"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 540
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5025729d9bdb73f80800000000000000
+      internalID: -8126818396656938491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_19"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 540
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7dea5849cb82f80800000000000000
+      internalID: -8131041781133420613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a435876b0eaa5dbe0800000000000000
+      internalID: -1453067422646381750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_21"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 360
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d4591b8c5074890800000000000000
+      internalID: -7473998697067098848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_22"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 360
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe9b4c801bd6a870800000000000000
+      internalID: 8693876994805047028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_23"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 360
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5390e8b1988836900800000000000000
+      internalID: 676534491489896757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bade6594856548140800000000000000
+      internalID: 4720993246578666923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_25"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 180
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd84be2d1db0f290800000000000000
+      internalID: -7858573416726229508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_26"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 180
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68334f04ae34914b0800000000000000
+      internalID: -5469265599073602682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_27"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 180
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b43994a512708a00800000000000000
+      internalID: 756730174679626936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96edf4939f9090a0800000000000000
+      internalID: -6876821174786070883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_29"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674157352f2c060c0800000000000000
+      internalID: -4584450074625108874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vota\xE7\xE3o (1)_30"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 350
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dec2c75667fbef0800000000000000
+      internalID: -90223289277027049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
