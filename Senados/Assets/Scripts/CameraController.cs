@@ -20,6 +20,7 @@ public class CameraController : MonoBehaviour
     {
         if(Input.GetKey(KeyCode.Space) ||Input.GetButton("Jump")||Input.GetButton("Submit")){
             GameObject.Find("Main Camera/Zoom_morador_de_rua").SetActive(false);
+            GameObject.Find("Main Camera/Votação (1)_0").SetActive(false);
         }
 
         if(player.transform.position.x > -8.68 && player.transform.position.x < 8.61 ){

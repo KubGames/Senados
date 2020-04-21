@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -386,6 +386,7 @@ GameObject:
   - component: {fileID: 211082751}
   - component: {fileID: 211082753}
   - component: {fileID: 211082752}
+  - component: {fileID: 211082754}
   m_Layer: 0
   m_Name: "Vota\xE7\xE3o (1)_0"
   m_TagString: Untagged
@@ -478,6 +479,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &211082754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 211082750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc7d5b89ffefa5419bd68c7a79ac41d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &241424706
 GameObject:
   m_ObjectHideFlags: 0
@@ -1474,7 +1487,8 @@ AudioSource:
   m_GameObject: {fileID: 1391727742}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -3209413928367218118, guid: cf6aa58db13f69544b1fbcefa20ec595,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: ff56cd42995cc2d48891a36426f00aeb, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.386
@@ -2466,7 +2480,8 @@ AudioSource:
   m_GameObject: {fileID: 2129978591}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -3209413928367218118, guid: cf6aa58db13f69544b1fbcefa20ec595,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 9d5897cb8862e6840bfcf4a6a54e9ad6, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
